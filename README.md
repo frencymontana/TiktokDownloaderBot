@@ -14,7 +14,7 @@ A TikTokBot that downloads trending tiktok videos and compiles them using FFmpeg
 <p align="center">
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioprojectx/TiktokDownloaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/frencymontana/TiktokDownloaderBot)
 
 
 ## Local
